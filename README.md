@@ -1,4 +1,4 @@
 # Uber Ride Analytics
 
-![uber_banner-removebg-preview](https://github.com/user-attachments/assets/4f53a907-d2ee-4c53-9dba-bbc90578a85a)
+![uber_bann1-removebg-preview](https://github.com/user-attachments/assets/9eeed1a3-382c-490f-b7da-7152207d31e5)
 
