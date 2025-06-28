@@ -2,8 +2,6 @@
 
 ![uber_bann1-removebg-preview](https://github.com/user-attachments/assets/9eeed1a3-382c-490f-b7da-7152207d31e5)
 
-# Uber Trips Analysis
-
 This project presents a comprehensive end-to-end analysis of Uber trip data using **Power BI**. It replicates a real-world business intelligence solution — from data modeling and KPI definition to visual storytelling and dashboard deployment.
 
 ---
