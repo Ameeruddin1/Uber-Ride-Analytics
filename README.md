@@ -12,7 +12,7 @@ This project presents a comprehensive end-to-end analysis of Uber trip data usin
   Used to create a interactive dashboard analyzing Uber trip metrics. Key visuals were built using DAX, slicers, and formatting tools to track bookings, fare value, distance, and location trends.
 
 - **PDF Report (`Uber.Dashboard.pdf`)**  
-  A static snapshot of the interactive Power BI dashboard, suitable for presentations or stakeholder reports.
+   The original dataset containing trip-level details such as ride type, payment method, fare amount, distance, pickup/drop-off points, and surge pricing. Used as the foundation for data modeling and visualization.A static snapshot of the interactive Power BI dashboard, suitable for presentations or stakeholder reports.
 
 - **README.md**  
   Full project documentation, insights, and usage instructions.
