@@ -44,5 +44,5 @@ This project presents a comprehensive end-to-end analysis of Uber trip data usin
 
 ---
 
-**Developed by Mohammed Ameeruddin**
+**Created by Mohammed Ameeruddin**
 
