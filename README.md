@@ -2,16 +2,18 @@
 
 ![uber_bann1-removebg-preview](https://github.com/user-attachments/assets/9eeed1a3-382c-490f-b7da-7152207d31e5)
 
+# Uber Trips Analysis
+
 This project presents a comprehensive end-to-end analysis of Uber trip data using **Power BI**. It replicates a real-world business intelligence solution — from data modeling and KPI definition to visual storytelling and dashboard deployment.
 
 ---
 
 ## Tools & Files
 
-- **Power BI (Uber.pbit)**  
-  Used to create a dynamic, interactive dashboard analyzing Uber trip metrics. Key visuals were built using DAX, slicers, and formatting tools to track bookings, fare value, distance, and location trends.
+- **Power BI (`Uber.pbit`)**  
+  Used to create a interactive dashboard analyzing Uber trip metrics. Key visuals were built using DAX, slicers, and formatting tools to track bookings, fare value, distance, and location trends.
 
-- **PDF Report (Uber.Dashboard.pdf)**  
+- **PDF Report (`Uber.Dashboard.pdf`)**  
   A static snapshot of the interactive Power BI dashboard, suitable for presentations or stakeholder reports.
 
 - **README.md**  
@@ -41,6 +43,7 @@ This project presents a comprehensive end-to-end analysis of Uber trip data usin
 - Identifies key trends like UberX’s dominance and high night-time demand  
 - Highlights location-level trends useful for urban planning and marketing  
 - Provides a scalable dashboard model suitable for transportation and mobility datasets
+
 
 ---
 
